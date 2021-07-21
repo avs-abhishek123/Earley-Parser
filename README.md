@@ -23,3 +23,6 @@ function Earley-Parse(words,grammar) returns chart
 return(chart)
 ```
 
+## OUTPUT
+
+<img src="https://github.com/avs-abhishek123/Earley-Parser/blob/main/earley%20parser%20output.PNG">
